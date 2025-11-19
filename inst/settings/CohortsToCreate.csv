@@ -1,0 +1,16 @@
+atlasId,atlasName,cohortId,name
+1671,[MDV] Target with PAD - EDI,1671,MDV_Target_with_PAD__EDI
+1672,[MDV] Comparator with PAD - EDI,1672,MDV_Comparator_with_PAD__EDI
+1483,[GDE2025_Antiplatelet] Outcome - MACE,1483,GDE2025_Antiplatelet_Outcome__MACE
+1652,[MDV] Secondary outcome - Composite,1652,MDV_Secondary_outcome__Composite
+1653,[MDV] Secondary outcome - Revascularization,1653,MDV_Secondary_outcome__Revascularization
+1654,[MDV] Secondary outcome - Death,1654,MDV_Secondary_outcome__Death
+1655,[MDV] Secondary outcome - Amputation,1655,MDV_Secondary_outcome__Amputation
+1673,[MDV] Secondary outcome - MALE,1673,MDV_Secondary_outcome__MALE
+1674,[MDV] Primary outcome - Death+Amputation,1674,MDV_Primary_outcome__DeathAmputation
+1675,[MDV] Target with PAD - UDI-All,1675,MDV_Target_with_PAD__UDIAll
+1678,[MDV] Comparator with PAD - UDI-All,1678,MDV_Comparator_with_PAD__UDIAll
+1676,[MDV] Target with PAD - UDI-Small,1676,MDV_Target_with_PAD__UDISmall
+1679,[MDV] Comparator with PAD - UDI-Small,1679,MDV_Comparator_with_PAD__UDISmall
+1677,[MDV] Target with PAD - UDI-Large,1677,MDV_Target_with_PAD__UDILarge
+1680,[MDV] Comparator with PAD - UDI-Large,1680,MDV_Comparator_with_PAD__UDILarge
