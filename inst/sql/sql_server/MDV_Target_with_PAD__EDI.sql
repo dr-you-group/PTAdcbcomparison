@@ -48,7 +48,7 @@ from
 (
   select de.* 
   FROM @cdm_database_schema.DEVICE_EXPOSURE de
-  WHERE de.DEVICE_SOURCE_VALUE LIKE '%J4077006%'
+  WHERE de.DEVICE_SOURCE_VALUE LIKE '%J4077006%' OR de.DEVICE_SOURCE_CONCEPT_ID = '42094372' OR de.DEVICE_CONCEPT_ID = '42094372'
 ) C
 JOIN @cdm_database_schema.PERSON P on C.person_id = P.person_id
 WHERE YEAR(C.device_exposure_start_date) - P.year_of_birth > 18
