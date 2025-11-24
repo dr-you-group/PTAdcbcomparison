@@ -5,11 +5,11 @@
 	"actions":[{
 		"type": "fileNameFindAndReplace",
 		"input": "packageName",
-		"find": "PTAdcbcomparison2"
+		"find": "PTAdcbcomparison3"
 	},{
 		"type": "stringFindAndReplace",
 		"input": "packageName",
-		"find": "PTAdcbcomparison2"
+		"find": "PTAdcbcomparison3"
 	},{
 		"type": "jsonArrayToCsv",
 		"input": "cohortDefinitions",

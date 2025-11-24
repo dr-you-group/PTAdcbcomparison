@@ -1,4 +1,4 @@
-PTAdcbcomparison2
+PTAdcbcomparison3
 ==============================
 
 
@@ -26,7 +26,7 @@ How to run
 3. Once installed, you can execute the study by modifying and using the code below. For your convenience, this code is also provided under `extras/CodeToRun.R`:
 
 	```r
-	library(PTAdcbcomparison2)
+	library(PTAdcbcomparison3)
 	
   # Optional: specify where the temporary files (used by the Andromeda package) will be created:
   options(andromedaTempFolder = "c:/andromedaTemp")
@@ -38,7 +38,7 @@ How to run
 	minCellCount <- 5
 	
 	# The folder where the study intermediate and result files will be written:
-	outputFolder <- "c:/PTAdcbcomparison2"
+	outputFolder <- "c:/PTAdcbcomparison3"
 	
 	# Details for connecting to the server:
 	# See ?DatabaseConnector::createConnectionDetails for help
@@ -97,11 +97,11 @@ How to run
 
 License
 =======
-The PTAdcbcomparison2 package is licensed under Apache License 2.0
+The PTAdcbcomparison3 package is licensed under Apache License 2.0
 
 Development
 ===========
-PTAdcbcomparison2 was developed in ATLAS and R Studio.
+PTAdcbcomparison3 was developed in ATLAS and R Studio.
 
 ### Development status
 
